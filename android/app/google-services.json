@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493701541920",
+    "project_id": "vardaan-413611",
+    "storage_bucket": "vardaan-413611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493701541920:android:6e58596a9811e59bf7cc45",
+        "android_client_info": {
+          "package_name": "com.health.vardaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyi42z775nMkRaD8W1fIcwJipkBkJK8iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493701541920:android:3e2f296a59de41fcf7cc45",
+        "android_client_info": {
+          "package_name": "com.health.vardaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyi42z775nMkRaD8W1fIcwJipkBkJK8iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
